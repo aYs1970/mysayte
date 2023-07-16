@@ -1,0 +1,44 @@
+.header {
+    max-width: 940px;
+    border-bottom: 1px solid #828282;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    background-color: blue;
+
+
+}
+
+.header__list {
+    margin: 5px;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+
+.header__list:active {
+
+
+}
+
+.header__item  {
+
+}
+
+.header__item .active {
+    color: #070707;
+}
+
+.header__item a {
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
+.header__item a:active {
+    background: #265301;
+     color: yellow;
+}

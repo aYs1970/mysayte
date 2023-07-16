@@ -1,0 +1,28 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+.hero__title {
+    font-size: 47.3392px;
+    line-height: 59px;
+    /* Black */
+    color: #070707;
+}
+
+.hero__descr {
+    font-size: 16px;
+    line-height: 30px;
+    /* Black */
+    color: #070707;
+}
+
+.hero__lang {
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+    transform: rotate(-90deg);
+}
+

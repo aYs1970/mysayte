@@ -1,0 +1,17 @@
+.about__title {
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    /* Black */
+    color: #070707
+}
+
+.about__descr {
+    max-width: 485px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    /* Black */
+    color: #070707;
+}
